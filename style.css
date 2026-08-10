@@ -6,7 +6,7 @@
     content:"";
     position:absolute;
     inset:0;
-    background:url("images/logo.png") center/620px auto no-repeat;
+    background:url("Phosa images/logo.jpg") center/620px auto no-repeat;
     opacity:.09;
     filter:brightness(0) invert(1);
     pointer-events:none;
